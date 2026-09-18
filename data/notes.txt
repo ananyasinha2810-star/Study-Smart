@@ -1,0 +1,5 @@
+Java | Inheritance | Inheritance allows a class to acquire properties of another class.
+DSA | Arrays | Arrays store elements of the same data type.
+DBMS | SQL | SQL is used to manage and query relational databases.
+JAVA | INHERITANCE | Inheritance allows a class to acquire properties and methods of another class.
+JAVA | INHERITANCE | Inheritance allows a class to acquire properties and methods of another class.
